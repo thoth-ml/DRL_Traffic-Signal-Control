@@ -13,6 +13,17 @@ Traffic Signal Control is an urgent problem that needs to be solved in big citie
 3. [Dzung Tri Bui](https://github.com/BTrDung)
 4. [An Vo](https://github.com/vokhanhan25)
 
+```bibtex
+@misc{drl-tsc,
+    author = {Tan Ngoc Pham, Dang Vu, Dzung Tri Bui, An Vo},
+    title = {{Investigating Q-Learning and DQN variants for Traffic Signal Control problem}},
+    year = {2022},
+    publisher = {GitHub},
+    journal = {GitHub repository},
+    howpublished = {\url{https://github.com/thoth-ml/DRL_Traffic-Signal-Control}},
+}
+```
+
 ---
 
 ### Table of contents 
